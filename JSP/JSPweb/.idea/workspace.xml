@@ -9,9 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a011074-c7e2-4700-811e-a25a84f6b885" name="변경" comment="">
+    <list default="true" id="5a011074-c7e2-4700-811e-a25a84f6b885" name="변경" comment="update jsp">
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/UserInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/JSP/CheckId.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/JSP/Post.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPweb_war_exploded/JSP/ex3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSPweb_war_exploded/JSP/ex3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPweb_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSPweb_war_exploded/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/JSP/ex3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/JSP/ex3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jspx File" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -56,6 +67,13 @@
       <recent name="$PROJECT_DIR$/web/JSP" />
       <recent name="$PROJECT_DIR$/web" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="TomeeConfiguration" />
+      </set>
+    </option>
   </component>
   <component name="RunManager" selected="Tomcat 서버.Tomcat 9.0.52">
     <configuration name="Tomcat 9.0.52" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 9.0.52" ALTERNATIVE_JRE_ENABLED="false">
@@ -246,8 +264,16 @@
       <option name="presentableId" value="Default" />
       <updated>1632372155150</updated>
       <workItem from="1632372156858" duration="10018000" />
-      <workItem from="1632443034006" duration="61000" />
+      <workItem from="1632443034006" duration="8419000" />
     </task>
+    <task id="LOCAL-00001" summary="update jsp">
+      <created>1632443289986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632443289986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,10 +284,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="update jsp" />
   </component>
 </project>

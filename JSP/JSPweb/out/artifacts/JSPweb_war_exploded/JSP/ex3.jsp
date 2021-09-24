@@ -17,6 +17,11 @@
         tr {
             color: greenyellow;
         }
+        th, td {
+            border-bottom: 1px solid #444444;
+            border-left: 1px solid #444444;
+            padding: 10px;
+        }
     </style>
 </head>
 <body>
@@ -68,7 +73,7 @@
             int day = cal.get(Calendar.DAY_OF_WEEK);
         %>
         <%=
-        year + " 년" + month + " 월" + date + " 일" + hour + " 시" + minute + " 분" + second + "초 입니다. (오늘은 \""  + yoil[day - 1] + "\"요일 입니다)"
+        year + "년 " + month + "월 " + date + "일 " + hour + "시 " + minute + "분 " + second + "초 입니다. (오늘은 \""  + yoil[day - 1] + "\"요일 입니다)"
         %>
     </table>
 </body>

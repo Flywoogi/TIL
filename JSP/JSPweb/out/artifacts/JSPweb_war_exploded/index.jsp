@@ -15,6 +15,7 @@
   <a href="JSP/ex1.jsp">ex1.jsp</a> <br>
   <a href="JSP/ex2.jsp">ex2.jsp</a> <br>
   <a href="JSP/ex3.jsp">ex3.jsp</a> <br>
+  <a href="JSP/CheckId.jsp">CheckId.jsp</a><br>
   <a href=""></a>
   <h3>HTML</h3>
   <a href="./cssEx/ex1.html">ex1.html</a> <br>
