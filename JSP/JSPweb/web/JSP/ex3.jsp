@@ -17,7 +17,11 @@
         tr {
             color: greenyellow;
         }
-        th, td
+        th, td {
+            border-bottom: 1px solid #444444;
+            border-left: 1px solid #444444;
+            padding: 10px;
+        }
     </style>
 </head>
 <body>
