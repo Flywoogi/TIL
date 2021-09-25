@@ -10,16 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a011074-c7e2-4700-811e-a25a84f6b885" name="변경" comment="update jsp">
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/UserInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/JSP/CheckId.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/JSP/Post.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPweb_war_exploded/JSP/ex3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSPweb_war_exploded/JSP/ex3.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPweb_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSPweb_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/JSP/ex3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/JSP/ex3.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/UserInfoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/UserInfoDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +256,8 @@
       <option name="presentableId" value="Default" />
       <updated>1632372155150</updated>
       <workItem from="1632372156858" duration="10018000" />
-      <workItem from="1632443034006" duration="8419000" />
+      <workItem from="1632443034006" duration="9139000" />
+      <workItem from="1632542843345" duration="1239000" />
     </task>
     <task id="LOCAL-00001" summary="update jsp">
       <created>1632443289986</created>
@@ -301,6 +294,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update jsp" />

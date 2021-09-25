@@ -18,7 +18,7 @@ public class UserInfoDao {
             userInfos = new ArrayList<UserInfo>();
             while (rs.next()){
                 UserInfo userinfo = new UserInfo()
-                
+
             }
         }
     }
