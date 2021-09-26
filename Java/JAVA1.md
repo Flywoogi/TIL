@@ -93,3 +93,47 @@ ide에서 run 버튼을 클릭하면, 자바 버추얼 머신이 확장자가 .c
 
 ---
 
+데이터를 가지고 연산을 하기 위해 데이터의 종류를 알아본다
+
+- 숫자
+- 문자
+- 기타 등등 (영상, 소리)
+
+데이터를 구분 하는 이유는 각각의 데이터 마다 처리 방법이 다르기 때문이다.
+
+문자의 경우 문자에 숫자가 몇 개인지, 어떤 문자를 제거한다던지, 특정 문자를 검색한다던지 등의 작업을 처리하기 위해 데이터를 구분해야한다는 이유가 있다.
+
+각각의 데이터들마다 어떤 연산 방법이 존재하는지 공부해본다.
+
+``` java
+public class Data_and_operation {
+    public static void main(String[] args) {
+        System.out.println(6); //number
+        System.out.println("Six"); //String
+
+        System.out.println("6"); //String 6
+
+        System.out.println(6+6);
+        System.out.println("6"+"6"); //66
+
+        System.out.println(6+6);
+//        System.out.println("6"*"6");
+
+        System.out.println("1111".length());
+//        System.out.println(1111.length());
+
+    }
+}
+
+```
+
+
+
+데이터의 타입을 구분하는 이유는, 타입별로 어울리는 연산방법이 다르기 때문이다.
+
+> 이 시스템에는 어떤 종류의 데이터 타입들이 존재하는가?
+>
+> 각각의 타입마다 어떤 방식으로 데이터를 처리해야 하는가?
+
+---
+
