@@ -5,10 +5,10 @@ public class Data_and_operation {
 
         System.out.println("6"); //String 6
 
-        System.out.println(6+6);
+        System.out.println(6+6); //12
         System.out.println("6"+"6"); //66
 
-        System.out.println(6+6);
+        System.out.println(6*6); //36
 //        System.out.println("6"*"6");
 
         System.out.println("1111".length());
