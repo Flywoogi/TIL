@@ -10,10 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a011074-c7e2-4700-811e-a25a84f6b885" name="변경" comment="update jsp">
-      <change afterPath="$PROJECT_DIR$/web/JSP/ex4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/include/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS/member/member.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/Variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/UserInfoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/UserInfoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/JAVA1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/JAVA1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,6 +272,7 @@
       <workItem from="1632542843345" duration="1239000" />
       <workItem from="1632666498330" duration="11000" />
       <workItem from="1632703669180" duration="7288000" />
+      <workItem from="1632874578327" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="update jsp">
       <created>1632443289986</created>
