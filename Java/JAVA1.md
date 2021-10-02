@@ -318,3 +318,27 @@ System.out.println(VAT);
 
 ---
 
+## 데이터 타입의 변환
+
+> casting
+
+---
+
+```java
+double a = 1.1;
+double b = 1;
+double b2 = (double) 1;
+
+System.out.println(b);
+// 1.0
+```
+
+double -> int로 강제 변환을 하기 위해서는 명시적으로 알려주어야한다.
+
+```java
+int e = (int) 1.1;
+System.out.println(e);
+// 1
+```
+
+강제로 변환을 해 줄 경우, 1.1은 int(정수)로 표현 할 수 없어 데이터에 손실이 일어난다. 1.1 -> 1

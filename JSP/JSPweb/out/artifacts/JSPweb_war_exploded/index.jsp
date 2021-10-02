@@ -23,6 +23,7 @@
   <a href="./cssEx/ex3.html">ex3.html</a> <br>
   <a href="./cssEx/ex4.html">ex4.html</a> <br>
   <a href="./cssEx/ex5.html">ex5.html</a> <br>
-
+<h2>쇼핑몰</h2>
+  <a href="./test01/uploadForm.jsp">uploadFrom.jsp</a>
   </body>
 </html>
