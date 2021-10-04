@@ -44,4 +44,26 @@ TIL Start
 
 ## 2021-09-26 Sun
 
-- I learn 
+- I learn Java1
+
+---
+
+## 2021-09-27 Mon
+
+- I learn jsp
+- I learn servlet
+
+---
+
+## 2021-09-28 Tue
+
+- I learn jsp, servlet
+
+---
+
+## 2021-09-29 Wed
+
+- I learn Java1, jsp, servlet
+
+---
+
