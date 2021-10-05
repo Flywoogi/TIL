@@ -11,9 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5a011074-c7e2-4700-811e-a25a84f6b885" name="변경" comment="update jsp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JSPweb.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/listener/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/ApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/JAVA1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/JAVA1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,7 +281,8 @@
       <workItem from="1633050474793" duration="8454000" />
       <workItem from="1633063088796" duration="6449000" />
       <workItem from="1633173387462" duration="30000" />
-      <workItem from="1633306943363" duration="3664000" />
+      <workItem from="1633306943363" duration="3666000" />
+      <workItem from="1633390881082" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="update jsp">
       <created>1632443289986</created>

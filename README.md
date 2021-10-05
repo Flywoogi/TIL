@@ -67,3 +67,8 @@ TIL Start
 
 ---
 
+## 2021-09-30 Thu
+
+- I learn jsp, servlet connect DB(Mysql)
+
+---

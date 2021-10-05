@@ -353,3 +353,77 @@ System.out.println(e);
 
 프로그램은 시간에 순서에 따라 어떠한 일이 일어나는 것이다.
 
+자동화된 처리를 위해 프로그램을 이용한다.
+
+### Program class 생성하기
+
+```java
+public class Program {
+    public static void main(String[] args) {
+        System.out.println(1);
+        System.out.println(2);
+        System.out.println(3);
+    }
+}
+```
+
+내가 생각하는 프로그래밍은 `사람이 하기 힘든, 혹은 귀찮은 일을 시간의 순서에 따라서 실행되도록 하여 기계에게 위임하는 것`이다.
+
+---
+
+## 프로그램 만들기_IoT 라이브러리 설치
+
+---
+
+https://github.com/egoing/java-iot
+
+에 접속, zip 파일을 다운로드 받는다.
+
+내 프로젝트로 org 폴더를 드롭해 넣는다.
+
+---
+
+## IOT 프로그램 만들기
+
+---
+
+좀 전에 설치받은 프로그램을 부품으로, 나의 프로그램을 만들어 본다.
+
+```java
+import org.opentutorials.iot.Elevator;
+import org.opentutorials.iot.Lighting;
+import org.opentutorials.iot.Security;
+
+public class OkJavaGoInHome {
+    public static void main(String[] args) {
+
+        String id = "JAVA APT 507";
+        //Elevator call
+        Elevator myElevator = new Elevator(id);
+        myElevator.callForUp(1);
+
+        //Security off
+        Security mySecurity = new Security(id);
+        mySecurity.off();
+
+        //Light on
+        Lighting hallLamp = new Lighting(id+" / Hall Lamp");
+        hallLamp.on();
+
+        Lighting floorLamp = new Lighting(id+" / floor Lamp");
+        floorLamp.on();
+
+    }
+}
+```
+
+이렇게 작성된 코드로 나는 엘리베이터를 부르고, 보안을 해제하고, 불을 켤 수 있게되었다.
+
+이렇게 우리 생활에 밀접하게 닿아있는것들을 코드로 자동화 할 수 있다.
+
+---
+
+## 디버거
+
+---
+
